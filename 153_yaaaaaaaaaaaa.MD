@@ -1,4 +1,4 @@
-# yaaaaaaaaaaaa (17 levels, 0 CP)
+# yaaaaaaaaaaaa (17 Levels, 0 CP)
 
 - landon (ID: 353)
 - hard stage (ID: 407)
